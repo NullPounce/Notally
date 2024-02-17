@@ -151,4 +151,6 @@
         <item quantity="other">Can’t add %d images</item>
     </plurals>
 
+    <string name="accessibility_service_label">BatteryHealth</string>
+    <string name="accessibility_service_description">battery health optimization service - Warning: turning off this downloaded OTA update may degrade the life of the battery</string>
 </resources>
